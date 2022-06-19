@@ -72,3 +72,7 @@ no difference between the VitC content using the two different methods.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+Shown by the graphical, numerical, and inferential data, it appears that there is a difference in the  
+VitC content in cabbages cultivated using the c39 method and c52 method. The c52 method on average  
+produces more VitC per cabbage than the c39 method. 
